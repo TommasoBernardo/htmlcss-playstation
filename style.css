@@ -10,4 +10,15 @@
 .my-size{
     max-width: 100px;
 }
+.my-color-fluid{
+    background-color: cornflowerblue;
+    border: solid black;
+    height: 200px;
 
+}
+
+.my-breake-circle{
+    background-color: aquamarine;
+    height: 50px;
+    border: dotted white;
+}
