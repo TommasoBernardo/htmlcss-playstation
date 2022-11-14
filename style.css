@@ -19,6 +19,10 @@
     background-color: #161c3b;
 }
 
+#link{
+    background-color: #00439c;
+}
+
 .my-size{
     max-width: 100px;
 }
@@ -84,4 +88,20 @@
 .my-social{
     height: 80px;
     background-color: coral;
+}
+
+.my-ps-logo{
+    height: 100px;
+    background-color:hotpink;
+}
+
+.my-ps-link{
+    height: 100px;
+    background-color:red;
+}
+
+
+.my-info{
+    height: 200px;
+    background-color:orange;
 }
