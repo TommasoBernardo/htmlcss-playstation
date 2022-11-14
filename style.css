@@ -7,7 +7,9 @@
     border: solid black;
 }
 
-
+#new-game{
+    background-color: #1f1f1f;
+}
 
 .my-size{
     max-width: 100px;
