@@ -90,6 +90,17 @@ body{
 }
 
 
+.my-now-button{
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    padding: .5rem;
+}
+
+.my-text-decoration{
+    color: black;
+}
+
 .my-social{
     height: 80px;
     background-color: coral;
