@@ -78,11 +78,18 @@ body{
 
 
 
-
-.multiplayer{
-    height: 150px;
-    background-color: khaki;
+.my-dimension{
+    width: 300px;
 }
+
+.my-plus-button{
+    border: none;
+    border-radius: 50px;
+    background-color: #d9dadc;
+    padding: .5rem;
+}
+
+
 
 .my-store{
     height: 200px;
