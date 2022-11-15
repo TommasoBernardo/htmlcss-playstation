@@ -46,9 +46,10 @@ body{
     border: dotted white;
 }
 
-.my-chance{
-    height: 150px;
-    background-color: blue;
+
+
+.my-text-gray{
+    color:gray
 }
 
 .my-console{
