@@ -40,17 +40,16 @@ body{
     border-radius: 30px;
 }
 
+#cooperativ{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    color: white;
+    height:  800px;
+}
+
 .my-size{
     max-width: 100px;
 }
-
-
-.my-breake-circle{
-    background-color: aquamarine;
-    height: 150px;
-    border: dotted white;
-}
-
 
 
 .my-text-gray{
@@ -66,6 +65,15 @@ body{
 
 .my-opacity{
     opacity: 0.6;
+}
+
+.my-margin{
+    margin-left: 7rem;
+    margin-top: 4rem;
+}
+
+.my-font{
+    font-size: 3.5rem;
 }
 .game-incredible{
     height: 150px;
