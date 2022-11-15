@@ -9,9 +9,8 @@ body{
 #jumbo{
     background-image: url(./img/jumbo-bg.png);
     background-position: center;
-    background-size: cover;
     color: white;
-    padding: 150px;
+    padding-top: 360px;
     
 }
 
