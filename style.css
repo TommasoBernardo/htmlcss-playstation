@@ -30,6 +30,10 @@ body{
     background-color: #00439c;
 }
 
+#my-border-radius{
+    border-radius: 100px
+}
+
 #my-button{
     background-color: #363636;
     border-radius: 30px;
@@ -53,9 +57,10 @@ body{
 }
 
 .my-console{
-    height: 220px;
-    background-color:blueviolet;
+    height: 100px;
 }
+
+
 
 .my-object{
     height: 90px;
