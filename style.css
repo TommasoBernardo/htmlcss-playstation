@@ -102,18 +102,12 @@ body{
 }
 
 
-.my-ps-logo{
-    height: 100px;
-    background-color:hotpink;
+.list-style{
+    list-style: none;
+    color: white;
+    line-height: 2;
 }
 
-.my-ps-link{
-    height: 100px;
-    background-color:red;
-}
-
-
-.my-info{
-    height: 200px;
-    background-color:orange;
+.my-sony{
+    width: 150px;
 }
