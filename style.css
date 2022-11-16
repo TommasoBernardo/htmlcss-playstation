@@ -6,7 +6,9 @@ body{
 #sony{
     background-color: #000000;
 }
-
+#nav-fixed{
+    background-color: white;
+}
 #jumbo{
     background-image: url(./img/jumbo-bg.png);
     background-position: center;
@@ -48,10 +50,7 @@ body{
 }
 
 
-.my-nav{
-    top: 0;
-    height: 100px;
-}
+
 nav{
     background-color: white;
 }
