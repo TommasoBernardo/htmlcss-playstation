@@ -47,10 +47,15 @@ body{
     height:  800px;
 }
 
+
 .my-nav{
     top: 0;
     height: 100px;
 }
+nav{
+    background-color: white;
+}
+
 
 .my-size{
     max-width: 100px;
